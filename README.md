@@ -1,9 +1,6 @@
-# SEGUNDO PARCIAL SPD
+
 ![Tinkercad](./img/ArduinoTinkercad.jpg)
 
-
-## :innocent: ALUMNO
-- Uriel Nicolas Marles
 
 
 ## :sunglasses: Descripción
